@@ -1,4 +1,4 @@
-# HI2022_Final_Project 
+
 # Breast Cancer Diagnosis Prediction 
 ## Overview
 This project focuses on predicting breast cancer diagnosis using machine learning models. The dataset used in this project contains various features related to breast cancer tumours, the data is taken from  digitalized image of breast tumour masses by fine needle aspiration and different models are trained to predict the diagnosis classifying it as benign and malignant.
